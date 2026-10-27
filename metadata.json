@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI — Personalized Learning Roadmap Generator",
+  "description": "An Ollama-powered AI learning roadmap generator that transforms learner goals, existing skill proficiency, and study capacity into an interactive dependency mind-map, verified resource library, and topological study schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
